@@ -16,3 +16,9 @@ After each question, add code that picks up the user's answer and stores it.
 - You will understand why this happens when we cover **Delimiters** in the next section (Booleans and Conditionals).
 
 - The solution is to add a throwaway **scan.nextLine()** before the "real" **scan.nextLine().**
+
+## 2. Update each reply.
+
+Update each reply with the user's answer.
+
+![Image_Three](image_three.png)
