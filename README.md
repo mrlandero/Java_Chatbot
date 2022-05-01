@@ -40,3 +40,7 @@ Before every reply, add a **new line.**
 Follow the comments to guide your code.
 
 ![Image_Six](image_six.png)
+
+## Final output:
+
+![Image_One](image_one.png)
