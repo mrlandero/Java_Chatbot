@@ -22,3 +22,11 @@ After each question, add code that picks up the user's answer and stores it.
 Update each reply with the user's answer.
 
 ![Image_Three](image_three.png)
+
+## 3. Run your code.
+
+![Image_Four](image_four.png)
+
+Why is the cat scared?
+
+The screaming cat appears when something's wrong or looks bad. In this case, the output is very messy. There should be a line of spacing between each answer and reply (see arrows).
