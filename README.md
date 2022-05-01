@@ -30,3 +30,13 @@ Update each reply with the user's answer.
 Why is the cat scared?
 
 The screaming cat appears when something's wrong or looks bad. In this case, the output is very messy. There should be a line of spacing between each answer and reply (see arrows).
+
+## 4. Add a new line
+
+Before every reply, add a **new line.**
+
+![Image_Five](image_five.png)
+
+Follow the comments to guide your code.
+
+![Image_Six](image_six.png)
